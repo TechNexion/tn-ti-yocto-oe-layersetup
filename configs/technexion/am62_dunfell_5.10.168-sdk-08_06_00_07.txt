@@ -13,5 +13,6 @@ oe-core,https://git.openembedded.org/openembedded-core,dunfell,daaee6fcb0d201f04
 meta-sysrepo,https://github.com/sartura/meta-sysrepo.git,master,8bcc6151897c0e67c2931c78340477bf3a12d8cb,layers=
 meta-jupyter,https://github.com/Xilinx/meta-jupyter.git,master,82db248e2eca36e52cbeafe599b755dc87720383,layers=
 meta-tn-ti-bsp,https://github.com/TechNexion/meta-tn-ti-bsp.git,dunfell_5.10.y_08.06.00.07,dd4c7e8c018e9978f57203909a8f49506a94f3c6,layers=
+meta-tn-wifi,https://github.com/TechNexion/meta-tn-wifi.git,dunfell_5.10.y,1fcdee2ff20b413f64406dbcf7cb7c1f3ddbdcb8,layers=
 OECORELAYERCONF=./sample-files/bblayers.conf.sample
 OECORELOCALCONF=./sample-files/local-arago64.conf.sample
