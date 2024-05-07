@@ -172,3 +172,5 @@ PRSERV_HOST = "localhost:0"
 # It is recommended to activate "buildhistory" for testing the PR service
 INHERIT += "buildhistory"
 BUILDHISTORY_COMMIT = "1"
+
+PA_TOKEN ?= "SbtQ_mC4fvJRA88_9jB7"
