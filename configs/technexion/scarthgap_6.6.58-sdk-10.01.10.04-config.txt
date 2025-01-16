@@ -3,6 +3,7 @@
 
 bitbake,https://git.openembedded.org/bitbake,2.8,6c2641f7a9e92c1b82e306f59ddd3c1249c52cbf
 meta-tn-ti-bsp,https://github.com/TechNexion/meta-tn-ti-bsp.git,scarthgap_6.6.y_10.01.10,ef96b9920d4fd85fd3c941678e238af9564f58aa,layers=
+meta-tn-wifi,https://github.com/TechNexion/meta-tn-wifi.git,scarthgap_ti_6.6.y,67c6cb63835e4dad9eb6f54ecc29b4135168fb62,layers=
 meta-tisdk,https://github.com/TexasInstruments/meta-tisdk.git,scarthgap,10.01.10.04,layers=
 meta-arago,https://git.yoctoproject.org/meta-arago,scarthgap,10.01.10,layers=meta-arago-distro:meta-arago-extras:meta-arago-demos:meta-arago-test
 meta-qt5,https://github.com/meta-qt5/meta-qt5.git,scarthgap,eb828418264a49b8d00035cb3d7b12fcea3be801,layers=
